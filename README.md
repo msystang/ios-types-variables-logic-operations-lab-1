@@ -1,3 +1,5 @@
+# Hi! This is a test.
+
 # Types Variables Logic and Operations Lab
 
 ## Instructions for lab submission
