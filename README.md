@@ -3,11 +3,11 @@
 ## Instructions for lab submission
 
 1. Fork the assignment repo
-1. Clone your Fork to your machine
-1. Complete the lab
-1. Push your changes to your Fork
-1. Submit a Pull Request back to the assignment repo
-1. Paste a link to of your Fork on Canvas and submit
+2. Clone your Fork to your machine
+3. Complete the lab
+4. Push your changes to your Fork
+5. Submit a Pull Request back to the assignment repo
+6. Paste a link to of your Fork on Canvas and submit
 
 ## 1. Which data type would be the best to use for recording the total balance of an online shopping cart?
 
